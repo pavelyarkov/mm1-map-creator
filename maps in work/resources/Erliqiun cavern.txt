@@ -1,0 +1,11 @@
+B-1 cavern
+A - need access code(10 symbols)
+B - exit
+C - 
+D - 
+E - 
+F - 
+G - 
+H - 
+I - 
+J - 

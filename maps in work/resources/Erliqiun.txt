@@ -1,0 +1,11 @@
+#5 Erliquin
+A - current trends ironworks
+B - inn
+C - four star foods
+D - temple gauche
+E - superior training
+F - tavern of tall tales
+G - teleport to random loc
+H - town treasure
+I - Agar
+J - exit(0,7),cavern(15,7)

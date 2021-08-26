@@ -1,0 +1,11 @@
+Outdoors C-2,(10,10)
+A - 
+I - strange fountain
+B: Y=15 - to C-1; Y=0 - to C-3; X=15 - to D-2; (10,10) - to Sorpigal
+C - cave to cavern level 2 with acid trap
+D - strong ambush
+E - statues block the path somewhere
+F - ambush
+G - teleport to random loc
+H - avalance(no way back)
+J - 

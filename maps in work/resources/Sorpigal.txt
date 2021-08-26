@@ -1,0 +1,11 @@
+Town #1 Sorpigal,C-2,surf(10,10)
+A - tp to any town for 1 gem
+B - trap door down
+C - inn
+D - trader
+E - food
+F - to outdoors(12,), to caverns(14,)
+H - statues(8)
+I - training grounds
+J - temple moonshadow( clerical help)
+G - tavern

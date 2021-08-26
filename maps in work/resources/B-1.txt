@@ -1,0 +1,11 @@
+Town #outdoors b-1(snow)
+A - to outdoors c-1
+B - to outdoors a-1
+C - Castle Blackridge north
+E - Erliquin
+F - cave
+D - Blackridge south
+G - ruins
+H - 
+I - 
+J - 
